@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-02-18T12:10:36.932Z</updated>
+  <updated>2019-02-18T12:12:08.892Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>树莓派安装node.js</title>
-    <link href="http://yoursite.com/2018/11/25/shu-mei-pai-an-zhuang-node-js/"/>
-    <id>http://yoursite.com/2018/11/25/shu-mei-pai-an-zhuang-node-js/</id>
-    <published>2018-11-25T11:59:55.000Z</published>
-    <updated>2019-02-18T12:10:36.932Z</updated>
+    <title>树莓派安装node</title>
+    <link href="http://yoursite.com/2019/02/18/shu-mei-pai-an-zhuang-node-js/"/>
+    <id>http://yoursite.com/2019/02/18/shu-mei-pai-an-zhuang-node-js/</id>
+    <published>2019-02-18T10:57:39.000Z</published>
+    <updated>2019-02-18T12:12:08.892Z</updated>
     
     <summary type="html">
     
@@ -37,6 +37,10 @@
     
     </summary>
     
+    
+      <category term="树莓派" scheme="http://yoursite.com/tags/%E6%A0%91%E8%8E%93%E6%B4%BE/"/>
+    
+      <category term="node" scheme="http://yoursite.com/tags/node/"/>
     
   </entry>
   

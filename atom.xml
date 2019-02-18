@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-02-18T12:39:30.968Z</updated>
+  <updated>2019-02-18T12:41:49.567Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>树莓派安装node</title>
+    <link href="http://yoursite.com/2019/02/18/shu-mei-pai-an-zhuang-node/"/>
+    <id>http://yoursite.com/2019/02/18/shu-mei-pai-an-zhuang-node/</id>
+    <published>2019-02-18T12:41:01.000Z</published>
+    <updated>2019-02-18T12:41:49.567Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;img src=&quot;http://114.115.179.149/img/R~N2BC_3A4S616H.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;解压  &lt;/p&gt;
+&lt;p&gt;完成解压后，我们将 Node.js 的二进制包移动到 /usr/local/node
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>树莓派安装node.js</title>

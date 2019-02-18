@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>涂鸦</title>
+  
+  <subtitle>涂鸦</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-02-18T12:02:39.221Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>doodle</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>树莓派安装node.js</title>
+    <link href="http://yoursite.com/2018/11/25/shu-mei-pai-an-zhuang-node-js/"/>
+    <id>http://yoursite.com/2018/11/25/shu-mei-pai-an-zhuang-node-js/</id>
+    <published>2018-11-25T11:59:55.000Z</published>
+    <updated>2019-02-18T12:02:39.221Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;img src=&quot;http://114.115.179.149/img/R~N2BC_3A4S616H.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;解压  &lt;/p&gt;
+&lt;p&gt;完成解压后，我们将 Node.js 的二进制包移动到 /usr/local/node
+        
+      
+    
+    </summary>
+    
+    
+      <category term="树莓派" scheme="http://yoursite.com/tags/%E6%A0%91%E8%8E%93%E6%B4%BE/"/>
+    
+      <category term="node" scheme="http://yoursite.com/tags/node/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2018/11/24/hello-world/"/>
+    <id>http://yoursite.com/2018/11/24/hello-world/</id>
+    <published>2018-11-24T09:12:05.054Z</published>
+    <updated>2018-11-24T09:12:05.054Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
